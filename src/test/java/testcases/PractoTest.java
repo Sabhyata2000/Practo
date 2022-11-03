@@ -44,6 +44,7 @@ public class PractoTest {
                 .findElement(By.xpath("//*[@id=\"root\"]/div/div/div[1]/div[1]/div[2]/div/div[3]/div[4]/span/span[1]"))
                 .getText().equalsIgnoreCase("Pragati Paliwal")) {
             test.log(Status.PASS, "Successfully logged in");
+            System.out.println("Login successfull");
         } else {
             test.log(Status.FAIL, "Invalid login");
             Screenshot s = new AShot().takeScreenshot(driver);
