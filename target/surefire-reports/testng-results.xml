@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-03T16:09:32 IST" name="Command line suite" finished-at="2022-11-03T16:10:13 IST" duration-ms="40320">
+  <suite started-at="2022-11-03T16:24:31 IST" name="Command line suite" finished-at="2022-11-03T16:25:19 IST" duration-ms="47893">
     <groups>
     </groups>
-    <test started-at="2022-11-03T16:09:32 IST" name="Command line test" finished-at="2022-11-03T16:10:13 IST" duration-ms="40320">
+    <test started-at="2022-11-03T16:24:31 IST" name="Command line test" finished-at="2022-11-03T16:25:19 IST" duration-ms="47893">
       <class name="testcases.PractoTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:09:32 IST" name="beforeTest" finished-at="2022-11-03T16:09:45 IST" duration-ms="12618" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:24:31 IST" name="beforeTest" finished-at="2022-11-03T16:24:45 IST" duration-ms="13720" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="loginTest()[pri:0, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:09:45 IST" name="loginTest" finished-at="2022-11-03T16:09:54 IST" duration-ms="8355" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:24:45 IST" name="loginTest" finished-at="2022-11-03T16:24:54 IST" duration-ms="9485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="locAndNavTest()[pri:1, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:09:54 IST" name="locAndNavTest" finished-at="2022-11-03T16:10:00 IST" duration-ms="6403" status="PASS">
+        <test-method signature="locAndNavTest()[pri:1, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:24:54 IST" name="locAndNavTest" finished-at="2022-11-03T16:25:05 IST" duration-ms="10902" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- locAndNavTest -->
-        <test-method signature="medicineTest()[pri:2, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:10:00 IST" name="medicineTest" finished-at="2022-11-03T16:10:07 IST" duration-ms="6811" status="PASS">
+        <test-method signature="medicineTest()[pri:2, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:25:05 IST" name="medicineTest" finished-at="2022-11-03T16:25:13 IST" duration-ms="7788" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- medicineTest -->
-        <test-method signature="addProductsTest()[pri:3, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:10:07 IST" name="addProductsTest" finished-at="2022-11-03T16:10:07 IST" duration-ms="420" status="PASS">
+        <test-method signature="addProductsTest()[pri:3, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:25:13 IST" name="addProductsTest" finished-at="2022-11-03T16:25:14 IST" duration-ms="533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addProductsTest -->
-        <test-method signature="viewCartTest()[pri:4, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:10:07 IST" name="viewCartTest" finished-at="2022-11-03T16:10:10 IST" duration-ms="3263" status="PASS">
+        <test-method signature="viewCartTest()[pri:4, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:25:14 IST" name="viewCartTest" finished-at="2022-11-03T16:25:17 IST" duration-ms="3373" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewCartTest -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:testcases.PractoTest@e50a6f6]" started-at="2022-11-03T16:10:10 IST" name="afterTest" finished-at="2022-11-03T16:10:13 IST" duration-ms="2294" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testcases.PractoTest@14ec4505]" started-at="2022-11-03T16:25:17 IST" name="afterTest" finished-at="2022-11-03T16:25:19 IST" duration-ms="1900" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
